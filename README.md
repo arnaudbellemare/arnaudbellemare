@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @arnaudbellemare
+- 👀 I’m interested in ... Crypto, Quant., Trading
+- 🌱 I’m currently learning ... Quant trading algo.
+- 💞️ I’m looking to collaborate on ... Algo.
+- 📫 How to reach me ... twitter : @arnaud710
